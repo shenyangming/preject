@@ -1,0 +1,5 @@
+Log file created at: 2021/09/27 00:06:23
+Running on machine: LAPTOP-MQ5GFUP5
+Binary: Built with gc go1.16.8 for windows/amd64
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0927 00:06:23.232968   17808 main.go:109] 客户端的IP:%s,HTTP返回码：%s192.168.0.149200
